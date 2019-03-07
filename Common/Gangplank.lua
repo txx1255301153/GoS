@@ -1,4 +1,4 @@
-require("OpenPredict")
+require("TPred")
 
 local ver = "1.0"
 
